@@ -1,0 +1,1 @@
+I have ONLY included code here. I have not included things necessary to run the code, often this means the yolo.pt model or a library (either pip installed or git clone). To view the code running, refer to individual report Appendices where I have shown some google drive links of me testing it out.

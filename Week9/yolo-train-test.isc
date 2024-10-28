@@ -1,0 +1,8 @@
+# PROVIDED BY LONG
+isc_project_id = "6e8eca81-df43-4d0e-8dfd-90bd755afec1"
+experiment_name = "YOLOV8m COCO8 6GPU interruptible test"
+gpu_type = "24GB VRAM GPU"
+gpus = 8
+compute_mode = "interruptible"
+output_path = "~/outputs/yolo_test"
+command = "source ~/venv/bin/activate && cd ~/yolo && python3 yolo-train-test.py"
